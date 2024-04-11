@@ -21,10 +21,11 @@ for(let x =0;x<buttonElements.length; x++){
 
     });
 }
-
+//equate the inputfield to an empty string to delete anything in the input field whenever clear button is clicked.
 function deleteResults(){
     inputField.value ="";
 }
+
 function finalAnswer(){
    inputField.value= eval( inputField.value)
 }
