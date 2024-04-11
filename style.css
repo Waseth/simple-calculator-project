@@ -39,11 +39,11 @@ button:hover{
 }
 .num, decimal{
     background-color:white;
-    color: blue;
+    color: black;
 }
 .signs{
-    background-color: chartreuse ;
-    color: darkblue;
+    background-color: blue ;
+    color: black;
 
 }
 
@@ -57,7 +57,7 @@ button:hover{
     border-radius: 10px;
 }
 .answer{
-    background-color: blue;
+    background-color: yellow;
     grid-row: span 3;
-    color:white;
+    color:black;
 }
