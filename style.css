@@ -37,7 +37,7 @@ button:hover{
     background-color: red;
     color: white;
 }
-.num, decimal{
+.num{
     background-color:black;
     color: white;
 }
@@ -48,7 +48,7 @@ button:hover{
 }
 
 
-#result{
+#res{
     width: 100%;
     box-shadow: 0 5px 4px rgba(0, 0, 0, 0.3)inset;
     padding: 15px;
