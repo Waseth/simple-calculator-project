@@ -23,7 +23,7 @@
 
 button{
     padding: 20px;
-    font-size: 25px;
+    font-size: 30px;
     border: none;
     box-shadow:0 3px 6px #0000004d ;
     border-radius:10px ;
@@ -55,9 +55,10 @@ button:hover{
     font-size: 20px;
     border: none;
     border-radius: 10px;
+
 }
 .answer{
     background-color: yellow;
     grid-row: span 3;
-    color:white;
+    color:black;
 }
