@@ -29,8 +29,10 @@ function deleteResults(){
 function finalAnswer(){
    inputField.value= eval( inputField.value)
 }
+//append a value to the prevision one so as to avoid overwriting the initially inputed value.
+//to do so create the following function that executes that command using the code in the block below.
 function addVal(val){
-    inputField.value += val;
+    inputField.value = inputField.value+val;
 
 }
 

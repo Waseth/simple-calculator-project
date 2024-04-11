@@ -2,9 +2,9 @@
 
 #### Date, 11/04/2024
 
-# BY: *WASETH EMMANUEL*
+## BY: *WASETH EMMANUEL*
 
-# TABLE OF CONTENTS:
+## TABLE OF CONTENTS:
 ### 1.Description.
 ### 2.Introduction
 ### 3.Features.
