@@ -1,0 +1,63 @@
+.whole{
+    margin-top: 60px;
+    padding: 20px;
+    max-width: 500px;
+    background-color: darkcyan ;
+   box-shadow: 0 2px 5px rgba(0,0,0 ,0.3);
+    border: solid 4px rgb(0, 0, 0);
+    border-radius: 5px;
+    margin: 0 auto;
+
+}
+.buttons{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    margin-top:20px;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+button{
+    padding: 20px;
+    font-size: 25px;
+    border: none;
+    box-shadow:0 3px 6px #0000004d ;
+    border-radius:10px ;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: lightskyblue;
+}
+.delete{
+    background-color: red;
+    color: white;
+}
+.num, decimal{
+    background-color:white;
+    color: blue;
+}
+.signs{
+    background-color: chartreuse ;
+    color: darkblue;
+
+}
+
+
+#result{
+    width: 100%;
+    box-shadow: 0 5px 4px rgba(0, 0, 0, 0.3)inset;
+    padding: 15px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
+.answer{
+    background-color: blue;
+    grid-row: span 3;
+    color:white;
+}
