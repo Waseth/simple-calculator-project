@@ -1,11 +1,11 @@
 .whole{
     margin-top: 60px;
-    padding: 20px;
+    padding: 40px;
     max-width: 500px;
     background-color: darkcyan ;
    box-shadow: 0 2px 5px rgba(0,0,0 ,0.3);
     border: solid 4px rgb(0, 0, 0);
-    border-radius: 5px;
+    border-radius: 20px;
     margin: 0 auto;
 
 }

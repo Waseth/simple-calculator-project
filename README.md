@@ -5,14 +5,14 @@
 ## By *WASETH EMMANUEL*
 
 # TABLE OF CONTENTS:
-## 1.Description.
-## 2.Introduction
-## 3.Features.
-## 4.Installation process.
-## 5.Live link.
-## 6.Technologies used.
-## 7.Support and contact details.
-## 8.license.
+### 1.Description.
+### 2.Introduction
+### 3.Features.
+### 4.Installation process.
+### 5.Live link.
+### 6.Technologies used.
+### 7.Support and contact details.
+### 8.license.
 
 ## DESCRIPTION
 A simple calculator application that performs basic arithmetic operations on two numbers. The calculator should allow users to input two numbers and select an operation (addition, subtraction, multiplication, or division). Upon selecting the operation, the calculator should display the result of the operation.
@@ -36,7 +36,7 @@ Git clone git@github.com:Waseth/basic-calculator-application.git
 
 ```
 
-# LIVE LINK
+### LIVE LINK
 [Git](gh-pages link)
 
 ## TECHNOLOGIES USED.
