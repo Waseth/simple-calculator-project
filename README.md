@@ -2,7 +2,7 @@
 
 #### Date, 11/04/2024
 
-# By *WASETH EMMANUEL*
+# BY: *WASETH EMMANUEL*
 
 # TABLE OF CONTENTS:
 ### 1.Description.
