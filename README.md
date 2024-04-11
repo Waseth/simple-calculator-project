@@ -1,6 +1,6 @@
-# (SIMPLE CALCULATOR)
+# SIMPLE CALCULATOR
 
-#### Date, 11/04/2024
+#### Date, 11/04/2024.
 
 ## BY: *WASETH EMMANUEL*
 
@@ -41,8 +41,11 @@ Git clone git@github.com:Waseth/basic-calculator-application.git
 
 ## TECHNOLOGIES USED.
 1.HTML.
+
 2.CSS.
+
 3.Javascript.
+
 4.Github.
 
 ### SUPPORT AND CONTACT DETAILS.
