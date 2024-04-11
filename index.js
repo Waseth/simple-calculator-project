@@ -16,7 +16,7 @@ for(let x =0;x<buttonElements.length; x++){
     });
 }
 function deleteResults(){
-
+    inputField.value ="";
 }
 function finalAnswer(){
    inputField.value= eval( inputField.value)
