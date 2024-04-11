@@ -1,18 +1,18 @@
-###### (SIMPLE CALCULATOR)
+# (SIMPLE CALCULATOR)
 
 #### Date, 11/04/2024
 
-#### By *WASETH EMMANUEL*
+## By *WASETH EMMANUEL*
 
-### TABLE OF CONTENTS:
-# 1.Description.
-# 2.Introduction
-# 3.Features.
-# 4.Installation process.
-# 5.Live link.
-# 6.Technologies used.
-# 7.Support and contact details.
-# 8.license.
+# TABLE OF CONTENTS:
+## 1.Description.
+## 2.Introduction
+## 3.Features.
+## 4.Installation process.
+## 5.Live link.
+## 6.Technologies used.
+## 7.Support and contact details.
+## 8.license.
 
 ## DESCRIPTION
 A simple calculator application that performs basic arithmetic operations on two numbers. The calculator should allow users to input two numbers and select an operation (addition, subtraction, multiplication, or division). Upon selecting the operation, the calculator should display the result of the operation.
@@ -40,12 +40,12 @@ Git clone git@github.com:Waseth/basic-calculator-application.git
 [Git](gh-pages link)
 
 ## TECHNOLOGIES USED.
-HTML.
-CSS.
-Javascript.
-Github.
+1.HTML.
+2.CSS.
+3.Javascript.
+4.Github.
 
-## SUPPORT AND CONTACT DETAILS.
+### SUPPORT AND CONTACT DETAILS.
 https://github.com/Waseth
 Phone Number:+254 740291726.
 
